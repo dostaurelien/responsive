@@ -1,0 +1,18 @@
+@media screen and (max-width: 961px) {
+   
+
+    .article {
+      /*visibility: hidden;*/
+      display: none;
+    }
+    h2 {
+        font-size: 20px;
+        margin-bottom: 100px;
+    }
+    h2 span {
+        font-size: 15px; 
+    }
+    .form h2 {
+        text-align: center;
+    }
+  }
