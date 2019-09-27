@@ -14,7 +14,6 @@
 }
 .nav ul {
     float: left;
-    position: fixed;
     width: 100%;
     display:inline-block;
     margin:0;
